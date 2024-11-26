@@ -1,0 +1,30 @@
+[submodule "Client"]
+	path = Client
+	url = https://github.com/VishnuSusilkumar/Eduquest-Client.git
+[submodule "Backend/ApiGateway-service"]
+	path = Backend/ApiGateway-service
+	url = https://github.com/VishnuSusilkumar/Eduquest-Api-Gateway.git
+[submodule "Backend/User-service"]
+	path = Backend/User-service
+	url = https://github.com/VishnuSusilkumar/Eduquest-User.git
+[submodule "Backend/Auth-service"]
+	path = Backend/Auth-service
+	url = https://github.com/VishnuSusilkumar/Eduquest-Auth.git
+[submodule "Backend/Notification-service"]
+	path = Backend/Notification-service
+	url = https://github.com/VishnuSusilkumar/Eduquest-Notification.git
+[submodule "Backend/Course-service"]
+	path = Backend/Course-service
+	url = https://github.com/VishnuSusilkumar/Eduquest-Course.git
+[submodule "Backend/Order-service"]
+	path = Backend/Order-service
+	url = https://github.com/VishnuSusilkumar/Eduquest-Order.git
+[submodule "Backend/Instructor-service"]
+	path = Backend/Instructor-service
+	url = https://github.com/VishnuSusilkumar/Eduquest-Instructor.git
+[submodule "Backend/Admin-service"]
+	path = Backend/Admin-service
+	url = https://github.com/VishnuSusilkumar/Eduquest-Admin.git
+[submodule "Backend/Transcoder-service"]
+	path = Backend/Transcoder-service
+	url = https://github.com/VishnuSusilkumar/Eduquest-Transcoder.git
